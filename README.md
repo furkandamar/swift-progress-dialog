@@ -1,4 +1,5 @@
 # Swift Progress Dialog
+![asdasdasd](https://cloud.githubusercontent.com/assets/18617350/14747602/ceec4ca4-08bd-11e6-9cdc-00b5f7225eb4.jpg)
 
 ##Get Properties
 ```swift
