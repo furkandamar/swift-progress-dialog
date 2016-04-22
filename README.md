@@ -46,5 +46,4 @@ and hide dialog.
 ```swift
 progress.Close()
 ```
-or
 Powerd by fukoapps.com
