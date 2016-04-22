@@ -36,10 +36,7 @@ Swift progress dialog code library
 ```swift
   var progress = ProgressDialog(delegate: self)
   //progress.Show(animate:Bool, mesaj: String)
-```
-
-```swift
-progress.Show(true, mesaj: "")
+ progress.Show(true, mesaj: "")
 ```
 or
 ```swift
